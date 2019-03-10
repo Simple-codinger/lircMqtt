@@ -1,0 +1,20 @@
+{
+  "name": "mqtt-lirc-service",
+  "version": "0.9",
+  "description": "mqtt serivce to controll lirc",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simple-codinger/lircMqtt.git"
+  },
+  "author": "Vincent Gierisch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Simple-codinger/lircMqtt/issues"
+  },
+  "homepage": "http://gierisch.org"
+}
