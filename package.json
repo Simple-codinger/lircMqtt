@@ -1,6 +1,6 @@
 {
   "name": "mqtt-lirc-service",
-  "version": "0.9",
+  "version": "0.9.3",
   "description": "mqtt serivce to controll lirc",
   "main": "app.js",
   "scripts": {
