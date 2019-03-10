@@ -1,0 +1,41 @@
+{
+  "remoteDevice":{
+    "LivingRoomOnkyo": {
+      "device": "LivingRoomOnkyo",
+      "keyMap": {
+        "TurnOn": "KEY_POWER",
+        "TurnOff": "KEY_POWER",
+        "SelectInput CD": "input_selector_:_cd",
+        "SelectInput ChromeCast": "input_selector_:_video_2",
+        "AdjustVolume DOWN": "KEY_VOLUMEDOWN",
+        "AdjustVolume UP": "KEY_VOLUMEUP",
+        "SetMute": "audio_muting",
+        "CdPause": "cd_:||",
+        "CdPlay": "cd_:>",
+        "CdNext": "cd_:>>",
+        "CdPrevious": "cd_:<<"
+      }
+    },
+    "LivingRoomTv": {
+      "device": "LivingRoomTv",
+      "keyMap": {
+        "TurnOn": "KEY_POWER",
+        "TurnOff": "KEY_POWER",
+        "ChangeChannel": "KEY_",
+        "SkipChannels UP": "KEY_CHANNELUP",
+        "SkipChannels DOWN": "KEY_CHANNELDOWN",
+        "SelectInput": "KEY_SOURCE",
+        "AdjustVolume DOWN": "KEY_VOLUME_DOWN",
+        "AdjustVolume UP": "KEY_VOLUME_UP",
+        "SetMute": "KEY_MUTE"
+      }
+    },
+    "LivingRoomTelekomTv": {
+      "device": "LivingRoomTelekomTv",
+      "keyMap": {
+        "TurnOn": "KEY_POWER",
+        "TurnOff": "KEY_POWER"
+      }
+    }
+  }
+}
